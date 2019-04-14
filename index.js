@@ -19,9 +19,9 @@ function dec (n) {
 function makeInt(n) {
   parseInt ('n') return ('n')
 }
-function preserveDecimal(n) { 
-return n 
+function preserveDecimal(n) {
+return n
 }
-function preserveDecimal(n) { 
-return ('nonsense!')  
+function preserveDecimal(n) {
+return ('nonsense!')
 }
